@@ -1,0 +1,11 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#FFFFFF"
+  image: assets/moderateorheavyrainshower.png
+  image_dark: assets/moderateorheavyrainshower.png
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#FFFFFF"
+    image: assets/moderateorheavyrainshower.png
+    image_dark: assets/moderateorheavyrainshower.png
+  web: false

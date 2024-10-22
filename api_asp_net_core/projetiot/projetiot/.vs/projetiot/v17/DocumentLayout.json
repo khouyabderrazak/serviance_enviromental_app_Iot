@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\projetiot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|c:\\users\\lenovo\\source\\repos\\projetiot\\projetiot\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|solutionrelative:projetiot\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|c:\\users\\lenovo\\source\\repos\\projetiot\\projetiot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|solutionrelative:projetiot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|c:\\users\\lenovo\\source\\repos\\projetiot\\projetiot\\migrations\\20240513205915_updatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|solutionrelative:projetiot\\migrations\\20240513205915_updatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|c:\\users\\lenovo\\source\\repos\\projetiot\\projetiot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|solutionrelative:projetiot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|c:\\users\\lenovo\\source\\repos\\projetiot\\projetiot\\migrations\\20240509140818_iotmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|solutionrelative:projetiot\\migrations\\20240509140818_iotmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|c:\\users\\lenovo\\source\\repos\\projetiot\\projetiot\\models\\iotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|solutionrelative:projetiot\\models\\iotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|c:\\users\\lenovo\\source\\repos\\projetiot\\projetiot\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|solutionrelative:projetiot\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|c:\\users\\lenovo\\source\\repos\\projetiot\\projetiot\\projetiot.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A3EC1352-39D9-4763-849F-4A737399A8AE}|projetiot\\projetiot.csproj|solutionrelative:projetiot\\projetiot.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\appsettings.json",
+              "RelativeDocumentMoniker": "projetiot\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\appsettings.json",
+              "RelativeToolTip": "projetiot\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T12:22:48.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240513205915_updateTable.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\Migrations\\20240513205915_updateTable.cs",
+              "RelativeDocumentMoniker": "projetiot\\Migrations\\20240513205915_updateTable.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\Migrations\\20240513205915_updateTable.cs",
+              "RelativeToolTip": "projetiot\\Migrations\\20240513205915_updateTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:59:15.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOTdata.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\Models\\IOTdata.cs",
+              "RelativeDocumentMoniker": "projetiot\\Models\\IOTdata.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\Models\\IOTdata.cs",
+              "RelativeToolTip": "projetiot\\Models\\IOTdata.cs",
+              "ViewState": "AQIAAAAAAACAAAAAAAABwA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:03:12.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "projetiot\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\Controllers\\DataController.cs",
+              "RelativeToolTip": "projetiot\\Controllers\\DataController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:11:58.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240509140818_IOTmigration.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\Migrations\\20240509140818_IOTmigration.cs",
+              "RelativeDocumentMoniker": "projetiot\\Migrations\\20240509140818_IOTmigration.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\Migrations\\20240509140818_IOTmigration.cs",
+              "RelativeToolTip": "projetiot\\Migrations\\20240509140818_IOTmigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:08:18.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\Data\\DataDbContext.cs",
+              "RelativeDocumentMoniker": "projetiot\\Data\\DataDbContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\Data\\DataDbContext.cs",
+              "RelativeToolTip": "projetiot\\Data\\DataDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:00:31.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\Program.cs",
+              "RelativeDocumentMoniker": "projetiot\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\Program.cs",
+              "RelativeToolTip": "projetiot\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:52:23.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "projetiot.http",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\projetiot.http",
+              "RelativeDocumentMoniker": "projetiot\\projetiot.http",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\projetiot\\projetiot\\projetiot.http",
+              "RelativeToolTip": "projetiot\\projetiot.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-09T13:52:22.462Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
